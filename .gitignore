@@ -1,0 +1,17 @@
+# Ignore all the files in directory
+games/**
+Chip-8*/**
+MegaChip8*/**
+SuperChip*/**
+
+# ignore specific files
+Chip8 Pack*.*
+Latest Updates.txt
+
+*.swp
+*.*~
+*~
+*.dll
+*.exe
+*.o
+oldchip8.*
